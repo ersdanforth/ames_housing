@@ -1,2 +1,3 @@
 # ames_housing
-Descriptive modeling based on the Ames Housing data set
+Comprehensive machine learning process employing strategic feature engineering and linear and tree-based modeling techniques to identify undervalued homes
+
