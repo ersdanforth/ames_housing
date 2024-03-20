@@ -1,3 +1,3 @@
 # ames_housing
-Comprehensive machine learning process employing strategic feature engineering and linear and tree-based modeling techniques to identify undervalued homes
+Comprehensive machine learning process using linear and tree-based modeling techniques to identify undervalued homes
 
